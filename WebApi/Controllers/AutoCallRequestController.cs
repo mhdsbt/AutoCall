@@ -1,14 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using Application.Features.ProductFeatures.Commands;
+﻿using Application.Features.ProductFeatures.Commands;
 using Application.Features.ProductFeatures.Queries;
 using Application.Interfaces;
-using Domain.DTO;
-using Domain.Entities;
-using DotNetCore.CAP;
-using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
 namespace WebApi.Controllers
