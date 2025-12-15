@@ -1,5 +1,4 @@
 ﻿using Application.Features.ProductFeatures.Commands;
-using Application.Features.ProductFeatures.Queries;
 using Application.Interfaces;
 using Microsoft.AspNetCore.Mvc;
 

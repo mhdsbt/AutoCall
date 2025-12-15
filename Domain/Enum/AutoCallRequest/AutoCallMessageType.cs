@@ -1,10 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace Domain.Enum.AutoCallRequest
+﻿namespace Domain.Enum.AutoCallRequest
 {
-
     public enum AutoCallMessageType : byte
     {
         CheckNotAckedOrders = 0,
